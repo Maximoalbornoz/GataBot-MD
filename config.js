@@ -2,7 +2,7 @@ import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
-//⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰
+//⊱ ━━━━━.⋅2323522751
 global.owner = [
   ['593993684821', 'GataBot-MD 💖🐈', true],
   ['593968585383'],
